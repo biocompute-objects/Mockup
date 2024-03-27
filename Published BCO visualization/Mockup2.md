@@ -1,2 +1,3 @@
-![Screenshot 2024-03-26 at 13 27 04](https://github.com/biocompute-objects/Mockup/assets/90009613/d8cbd58c-2efd-425c-a318-76e360b90e35)
-Table format
+
+![Screenshot 2024-03-27 at 9 03 24](https://github.com/biocompute-objects/Mockup/assets/90009613/7852ca7c-9a2c-46d3-89f9-dcd8cd201ea5)
+Table  format & collapsable step 
